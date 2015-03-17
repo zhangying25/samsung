@@ -1,0 +1,147 @@
+Codebook prepared by Ying Zhang based on data set he created as plain text file.
+Mar. 17, 2015
+
+activity					Factor			Activity Name
+							Levels:
+								WALKING
+								WALKING_UPSTAIRS
+								WALKING_DOWNSTAIRS
+								SITTING
+								STANDING
+								LAYING
+								
+subject						Factor			ID of subject		
+							Level: 
+								1 ~ 30
+
+tBodyAcc_mean_X				Numeric			Time of accelerometer   X
+
+tBodyAcc_mean_Y				Numeric			Time of accelerometer   Y
+
+tBodyAcc_mean_Z				Numeric			Time of accelerometer   Z
+
+tBodyAcc_std_X				Numeric			Time of accelerometer   X
+
+tBodyAcc_std_Y				Numeric			Time of accelerometer   Y
+
+tBodyAcc_std_Z				Numeric			Time of accelerometer   Z
+
+tGravityAcc_mean_X			Numeric			Time of accelerometer   X
+
+tGravityAcc_mean_Y			Numeric			Time of accelerometer   Y
+
+tGravityAcc_mean_Z			Numeric			Time of accelerometer   Z
+
+tGravityAcc_std_X			Numeric			Time of accelerometer   X
+
+tGravityAcc_std_Y			Numeric			Time of accelerometer   Y
+
+tGravityAcc_std_Z			Numeric			Time of accelerometer   Z
+
+tBodyAccJerk_mean_X			Numeric			Time of accelerometer Jerk signal  X
+
+tBodyAccJerk_mean_Y			Numeric			Time of accelerometer Jerk signal  Y
+
+tBodyAccJerk_mean_Z			Numeric			Time of accelerometer Jerk signal  Z
+
+tBodyAccJerk_std_X			Numeric			Time of accelerometer Jerk signal  X
+
+tBodyAccJerk_std_Y			Numeric			Time of accelerometer Jerk signal  Y
+
+tBodyAccJerk_std_Z			Numeric			Time of accelerometer Jerk signal  Z
+
+tBodyGyro_mean_X			Numeric			Time of gyroscope   X
+
+tBodyGyro_mean_Y			Numeric			Time of gyroscope   Y
+
+tBodyGyro_mean_Z			Numeric			Time of gyroscope   Z
+
+tBodyGyro_std_X				Numeric			Time of gyroscope   X
+
+tBodyGyro_std_Y				Numeric			Time of gyroscope   Y
+
+tBodyGyro_std_Z				Numeric			Time of gyroscope   Z
+
+tBodyGyroJerk_mean_X		Numeric			Time of gyroscope Jerk signal  X
+
+tBodyGyroJerk_mean_Y		Numeric			Time of gyroscope Jerk signal  Y
+
+tBodyGyroJerk_mean_Z		Numeric			Time of gyroscope Jerk signal  Z
+
+tBodyGyroJerk_std_X			Numeric			Time of gyroscope Jerk signal  X
+
+tBodyGyroJerk_std_Y			Numeric			Time of gyroscope Jerk signal  Y
+
+tBodyGyroJerk_std_Z			Numeric			Time of gyroscope Jerk signal  Z
+
+tBodyAccMag_mean			Numeric			Time of accelerometer  Magnitude 
+
+tBodyAccMag_std				Numeric			Time of accelerometer  Magnitude 
+
+tGravityAccMag_mean			Numeric			Time of accelerometer  Magnitude 
+
+tGravityAccMag_std			Numeric			Time of accelerometer  Magnitude 
+
+tBodyAccJerkMag_mean		Numeric			Time of accelerometer Jerk signal Magnitude 
+
+tBodyAccJerkMag_std			Numeric			Time of accelerometer Jerk signal Magnitude 
+
+tBodyGyroMag_mean			Numeric			Time of gyroscope  Magnitude 
+
+tBodyGyroMag_std			Numeric			Time of gyroscope  Magnitude 
+
+tBodyGyroJerkMag_mean		Numeric			Time of gyroscope Jerk signal Magnitude 
+
+tBodyGyroJerkMag_std		Numeric			Time of gyroscope Jerk signal Magnitude 
+
+fBodyAcc_mean_X				Numeric			Frequency of accelerometer   X
+
+fBodyAcc_mean_Y				Numeric			Frequency of accelerometer   Y
+
+fBodyAcc_mean_Z				Numeric			Frequency of accelerometer   Z
+
+fBodyAcc_std_X				Numeric			Frequency of accelerometer   X
+
+fBodyAcc_std_Y				Numeric			Frequency of accelerometer   Y
+
+fBodyAcc_std_Z				Numeric			Frequency of accelerometer   Z
+
+fBodyAccJerk_mean_X			Numeric			Frequency of accelerometer Jerk signal  X
+
+fBodyAccJerk_mean_Y			Numeric			Frequency of accelerometer Jerk signal  Y
+
+fBodyAccJerk_mean_Z			Numeric			Frequency of accelerometer Jerk signal  Z
+
+fBodyAccJerk_std_X			Numeric			Frequency of accelerometer Jerk signal  X
+
+fBodyAccJerk_std_Y			Numeric			Frequency of accelerometer Jerk signal  Y
+
+fBodyAccJerk_std_Z			Numeric			Frequency of accelerometer Jerk signal  Z
+
+fBodyGyro_mean_X			Numeric			Frequency of gyroscope   X
+
+fBodyGyro_mean_Y			Numeric			Frequency of gyroscope   Y
+
+fBodyGyro_mean_Z			Numeric			Frequency of gyroscope   Z
+
+fBodyGyro_std_X				Numeric			Frequency of gyroscope   X
+
+fBodyGyro_std_Y				Numeric			Frequency of gyroscope   Y
+
+fBodyGyro_std_Z				Numeric			Frequency of gyroscope   Z
+
+fBodyAccMag_mean			Numeric			Frequency of accelerometer  Magnitude 
+
+fBodyAccMag_std				Numeric			Frequency of accelerometer  Magnitude 
+
+fBodyBodyAccJerkMag_mean	Numeric			Frequency of accelerometer Jerk signal Magnitude 
+
+fBodyBodyAccJerkMag_std		Numeric			Frequency of accelerometer Jerk signal Magnitude 
+
+fBodyBodyGyroMag_mean		Numeric			Frequency of gyroscope  Magnitude 
+
+fBodyBodyGyroMag_std		Numeric			Frequency of gyroscope  Magnitude 
+
+fBodyBodyGyroJerkMag_mean	Numeric			Frequency of gyroscope Jerk signal Magnitude 
+
+fBodyBodyGyroJerkMag_std	Numeric			Frequency of gyroscope Jerk signal Magnitude 
