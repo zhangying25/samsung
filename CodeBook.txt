@@ -62,11 +62,11 @@ tBodyGyro_std_Y				Numeric			Time of gyroscope   Y
 
 tBodyGyro_std_Z				Numeric			Time of gyroscope   Z
 
-tBodyGyroJerk_mean_X		Numeric			Time of gyroscope Jerk signal  X
+tBodyGyroJerk_mean_X			Numeric			Time of gyroscope Jerk signal  X
 
-tBodyGyroJerk_mean_Y		Numeric			Time of gyroscope Jerk signal  Y
+tBodyGyroJerk_mean_Y			Numeric			Time of gyroscope Jerk signal  Y
 
-tBodyGyroJerk_mean_Z		Numeric			Time of gyroscope Jerk signal  Z
+tBodyGyroJerk_mean_Z			Numeric			Time of gyroscope Jerk signal  Z
 
 tBodyGyroJerk_std_X			Numeric			Time of gyroscope Jerk signal  X
 
@@ -82,7 +82,7 @@ tGravityAccMag_mean			Numeric			Time of accelerometer  Magnitude
 
 tGravityAccMag_std			Numeric			Time of accelerometer  Magnitude 
 
-tBodyAccJerkMag_mean		Numeric			Time of accelerometer Jerk signal Magnitude 
+tBodyAccJerkMag_mean			Numeric			Time of accelerometer Jerk signal Magnitude 
 
 tBodyAccJerkMag_std			Numeric			Time of accelerometer Jerk signal Magnitude 
 
@@ -90,9 +90,9 @@ tBodyGyroMag_mean			Numeric			Time of gyroscope  Magnitude
 
 tBodyGyroMag_std			Numeric			Time of gyroscope  Magnitude 
 
-tBodyGyroJerkMag_mean		Numeric			Time of gyroscope Jerk signal Magnitude 
+tBodyGyroJerkMag_mean			Numeric			Time of gyroscope Jerk signal Magnitude 
 
-tBodyGyroJerkMag_std		Numeric			Time of gyroscope Jerk signal Magnitude 
+tBodyGyroJerkMag_std			Numeric			Time of gyroscope Jerk signal Magnitude 
 
 fBodyAcc_mean_X				Numeric			Frequency of accelerometer   X
 
@@ -134,14 +134,14 @@ fBodyAccMag_mean			Numeric			Frequency of accelerometer  Magnitude
 
 fBodyAccMag_std				Numeric			Frequency of accelerometer  Magnitude 
 
-fBodyBodyAccJerkMag_mean	Numeric			Frequency of accelerometer Jerk signal Magnitude 
+fBodyBodyAccJerkMag_mean		Numeric			Frequency of accelerometer Jerk signal Magnitude 
 
-fBodyBodyAccJerkMag_std		Numeric			Frequency of accelerometer Jerk signal Magnitude 
+fBodyBodyAccJerkMag_std			Numeric			Frequency of accelerometer Jerk signal Magnitude 
 
-fBodyBodyGyroMag_mean		Numeric			Frequency of gyroscope  Magnitude 
+fBodyBodyGyroMag_mean			Numeric			Frequency of gyroscope  Magnitude 
 
-fBodyBodyGyroMag_std		Numeric			Frequency of gyroscope  Magnitude 
+fBodyBodyGyroMag_std			Numeric			Frequency of gyroscope  Magnitude 
 
-fBodyBodyGyroJerkMag_mean	Numeric			Frequency of gyroscope Jerk signal Magnitude 
+fBodyBodyGyroJerkMag_mean		Numeric			Frequency of gyroscope Jerk signal Magnitude 
 
-fBodyBodyGyroJerkMag_std	Numeric			Frequency of gyroscope Jerk signal Magnitude 
+fBodyBodyGyroJerkMag_std		Numeric			Frequency of gyroscope Jerk signal Magnitude 
