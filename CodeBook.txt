@@ -1,18 +1,18 @@
 Codebook prepared by Ying Zhang based on data set he created as plain text file.
 Mar. 17, 2015
 
-activity					Factor			Activity Name
-							Levels:
-								WALKING
-								WALKING_UPSTAIRS
-								WALKING_DOWNSTAIRS
-								SITTING
-								STANDING
-								LAYING
+activity				Factor			Activity Name
+					Levels:
+						WALKING
+						WALKING_UPSTAIRS
+						WALKING_DOWNSTAIRS
+						SITTING
+						STANDING
+						LAYING
 
-subject						Factor			ID of subject		
-							Levels: 
-								1 ~ 30
+subject					Factor			ID of subject		
+					Levels: 
+						1 ~ 30
 
 tBodyAcc_mean_X				Numeric			Time of accelerometer   X
 
