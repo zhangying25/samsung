@@ -9,9 +9,9 @@ activity					Factor			Activity Name
 								SITTING
 								STANDING
 								LAYING
-								
+
 subject						Factor			ID of subject		
-							Level: 
+							Levels: 
 								1 ~ 30
 
 tBodyAcc_mean_X				Numeric			Time of accelerometer   X
